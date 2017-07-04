@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlantDetector</string>
+    <string name="action_settings">Settings</string>
+    <string name="camera_button">&#xf030; Take Picture</string>
+    <string name="browse">BROWSE</string>
+    <string name="cal">COLOR VARIATION</string>
+    <string name="textred">Red Percentage</string>
+    <string name="textgreen">Green Percentage</string>
+    <string name="textyellow">Yellow Percentage</string>
+    <string name="hundred">%</string>
+    <string name="standards">*Bright Sunlight/n*Good Camera</string>
+
+</resources>
